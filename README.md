@@ -12,3 +12,6 @@ Portofolio Link: http://vasilache-andrei.herokuapp.com/
 App link: http://vasilache-andrei.herokuapp.com/guess
 
 
+<img src="http://vasilache-andrei.herokuapp.com/portofolioGifs/colorGuess.gif">
+
+
