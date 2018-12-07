@@ -7,7 +7,7 @@ This app is one of my first applications
 I used: Html, Css, JavaScript, jQuery and Bootstrap.
 
 
-Portofolio Link: http://vasilache-andrei.herokuapp.com/
+Portfolio Link: http://vasilache-andrei.herokuapp.com/
 
 App link: http://vasilache-andrei.herokuapp.com/guess
 
